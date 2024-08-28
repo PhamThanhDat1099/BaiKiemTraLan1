@@ -8,6 +8,7 @@
  * @author ADMIN
  */
 public class CD {
+    
     private String maso;
     private String tenCD;
     private String casi;
